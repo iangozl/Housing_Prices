@@ -13,19 +13,22 @@ To run the notebook locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
+```
 git clone https://github.com/iangozl/Housing_Prices.git
+```
+
 Install the required dependencies:
 
-bash
-Copy code
+```
 pip install -r requirements.txt
+```
+
 Open and run the Jupyter Notebook:
 
-bash
-Copy code
+```
 jupyter notebook your_notebook.ipynb
+```
+
 Note
 Please make sure to review the documentation for additional details and instructions.
 
