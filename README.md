@@ -2,6 +2,7 @@
 
 
 Overview
+
 This repository contains a Jupyter Notebook showcasing a basic analysis of the housing market in California. The notebook explores the correlations between all the variables in the dataset using pandas, numpy, matplotlib, seaborn and sklearn. The analysis aims to predict the median house value.
 
 Contents
