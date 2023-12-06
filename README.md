@@ -13,8 +13,6 @@ To run the notebook locally, follow these steps:
 
 Clone the repository:
 
-sdfsdf heheasda
-asdadas
 ```
 git clone https://github.com/iangozl/Housing_Prices.git
 ```
