@@ -1,35 +1,68 @@
-# California Housing Prices
+# Housing Prices Prediction Project
 
+![Project Image](https://your_image_url_here.jpg)
 
-Overview
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Models](#models)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
-This repository contains a Jupyter Notebook showcasing a basic analysis of the housing market in California. The notebook explores the correlations between all the variables in the dataset using pandas, numpy, matplotlib, seaborn and sklearn. The analysis aims to predict the median house value.
+## Introduction
+This project aims to predict median house prices using various machine learning models. The goal is to compare different models and identify the one with the best predictive performance for the given dataset.
 
-Contents
-Jupyter Notebook: housing_analysis.ipynb
+## Features
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Model training and evaluation
+- Comparison of different machine learning models
 
-Getting Started
-To run the notebook locally, follow these steps:
+## Getting Started
+To get started with this project, follow the instructions below.
 
-Clone the repository:
+### Prerequisites
+- Python 3.x
+- Jupyter Notebook (optional, for running the provided notebooks)
 
-```
-git clone https://github.com/iangozl/Housing_Prices.git
-```
-
+### Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/iangozl/Housing_Prices.git
+   cd Housing_Prices
+   ```
 Install the required dependencies:
-
 ```
 pip install -r requirements.txt
 ```
 
-Open and run the Jupyter Notebook:
+## Usage
 
-```
-jupyter notebook your_notebook.ipynb
-```
+Explore the provided Jupyter Notebooks for detailed analysis and visualization.
+Run the Python scripts to train and evaluate machine learning models.
+Customize the models and parameters as needed for your specific use case.
 
-Note
-Please make sure to review the documentation for additional details and instructions.
+## Models
 
-Feel free to explore, contribute, and provide feedback!
+The following machine learning models are implemented and compared in this project:
+
+- Linear Regression
+- Decision Tree
+- Random Forest
+- Gradient Boosting
+- Support Vector Machine (SVM)
+
+## Results
+Detailed results and performance metrics for each model are available in the Results directory.
+
+## Contributing
+Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
+
+## License
+This project is licensed under the MIT License.
