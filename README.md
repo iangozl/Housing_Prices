@@ -32,12 +32,13 @@ To get started with this project, follow the instructions below.
 - Jupyter Notebook (optional, for running the provided notebooks)
 
 ### Installation
+
 1. Clone the repository:
-   ```
-   git clone https://github.com/iangozl/Housing_Prices.git
-   cd Housing_Prices
-   ```
-Install the required dependencies:
+```
+git clone https://github.com/iangozl/Housing_Prices.git
+cd Housing_Prices
+```
+2. Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
