@@ -1,6 +1,6 @@
 # Housing Prices Prediction Project
 
-![Project Image](https://your_image_url_here.jpg)
+![Project Image](https://upload.wikimedia.org/wikipedia/commons/f/f3/Memphis_Tennessee-2014.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
